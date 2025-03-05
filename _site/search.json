@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About this site\nHIIIIIII\nI’m Christina, I am an Environmental major at Hunter College. My favorite color is green\nI’m currently taking this WebGIS course\nThis is my first website.\nHope you enjoy"
+  },
+  {
+    "objectID": "letter.html",
+    "href": "letter.html",
+    "title": "Who is the Mayor??",
+    "section": "",
+    "text": "The current mayor of New York City (for now) is Eric Adams :\n\n\n\n\n\n\nTip\n\n\n\n Things Mayor’s Can Do:\n1. Working on regional transportation, clean energy, and emissions reduction projects.\n2. Speaking out about bike infrastructure and pedestrian safety.\n3. Shaping funding priorities and the dialogue in the county to be more inclusive\n4. Attending town council meetings and proposing and debating initiatives.\n\n\n\nBut their most important job is to listen to YOU!\nIt’s vital that you contact them on issues that you care about so changes can be made.\nSee the Letter tab for a sample letter you can send today!"
+  },
+  {
+    "objectID": "letter2.html",
+    "href": "letter2.html",
+    "title": "Letter To The Mayor",
+    "section": "",
+    "text": "An open letter to the mayor of NYC Dear Mayor Adams,\nI am writing this letter to you to inform you about the issues with snow management in the city. Here is the list of issues:\n1. It is inconvenient\n2. It costs a lot of money\n3. It is not environmentally friendly\n\n“Snow is managed very poorly in this city”- NYC Sanitation department employee \n\nThe following employees also agree with this statement:\n\n\n\nName\nYears On the Job\n\n\n\n\nJohn\n4 years\n\n\nKelly\n7 years\n\n\nKevin\n5 years\n\n\nMatt\n8 years\n\n\nAnthony\n20 years\n\n\n\n\n\n\n\n\nPlease visit snow removal services to get more information about environmentally friendly practices. Or you can you watch this helpful video:\n\n\n\nviewof letterAuthor = Inputs.text({value: \"John Doe\", label:\"Your Name\"})\n\n\n\n\n\n\nSincerely,"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WebGIS",
+    "section": "",
+    "text": "WebGIS is an important skill in GIS industry. You can add cute pictures!\n\nIntroduction:\n\n\n\nCute Kitten\n\n\n\nJust to start with something cute, but seriously, GIS is a potent tool to display data in a way that helps people understand. Using websites like this one makes these helpful maps accessible to more people, furthering their impact"
+  }
+]
